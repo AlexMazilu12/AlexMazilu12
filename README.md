@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a motivated and hard-working student, with a passion for technology and a desire to always improve my knowledge. I have worked on various projects where I gained experience in full-stack development, database management, integrating web technologies and machine learning. I'm particularly interested in internships that will allow me to further develop my skills in software engineering, system design, and problem-solving while contributing to impactful projects.
 
 
